@@ -1,2 +1,4 @@
 # hello-world
-First repository guide
+Hi Humans!
+
+Bruntas here, finally!
